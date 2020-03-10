@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>GProp1</name>
+        <order/>
+        <roles>gprop1_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>matt.wilkofsky@snc</sys_created_by>
+        <sys_created_on>2020-03-10 15:36:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>57edc210db270010dd61ff561d96194b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>GProp1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="GProp1" source="13edc210db270010dd61ff561d96190f">13edc210db270010dd61ff561d96190f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GProp1">13edc210db270010dd61ff561d96190f</sys_scope>
+        <sys_update_name>sys_app_application_57edc210db270010dd61ff561d96194b</sys_update_name>
+        <sys_updated_by>matt.wilkofsky@snc</sys_updated_by>
+        <sys_updated_on>2020-03-10 15:36:47</sys_updated_on>
+        <title>GProp1</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
